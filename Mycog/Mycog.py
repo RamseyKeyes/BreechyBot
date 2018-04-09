@@ -12,8 +12,7 @@ class Mycog:
         """This does stuff!"""
 
         #Your code will go here
-
-        await client.change_presence(game=discord.Game(name='Dnd'))
+        await self.bot.say("I can do stuff!")
 
 def setup(bot):
     bot.add_cog(Mycog(bot))
