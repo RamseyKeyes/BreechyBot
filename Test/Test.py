@@ -8,7 +8,7 @@ class Test:
         self.bot = bot
 
     @commands.command()
-    async def mycom(self):
+    async def Test(self):
         """This does stuff!"""
 
         #Your code will go here
