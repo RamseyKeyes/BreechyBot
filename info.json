@@ -2,6 +2,6 @@
     "AUTHOR" : "RamseyKeyes",
     "INSTALL_MSG" : "Congrats it Worked",
     "NAME" : "BBot",
-    "SHORT" : "A short description, appears on !cog list",
+    "SHORT" : "",
     "DESCRIPTION" : "A longer description, appears on !cog info repo"
 }
