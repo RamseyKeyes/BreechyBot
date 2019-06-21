@@ -1,0 +1,10 @@
+{
+    "AUTHOR" : "RamseyKeyes",
+    "INSTALL_MSG" : "This is a triumph",
+    "NAME" : "Twitch Tweeter",
+    "SHORT" : "Post a Tweet when ever Streams go live [WIP]",
+    "DESCRIPTION" : "Post a Tweet when ever Streams go live. ",
+    "TAGS" : ["twitch", "twitter", "automatic"],
+    "REQUIREMENTS" : [],
+    "HIDDEN" : false
+}
