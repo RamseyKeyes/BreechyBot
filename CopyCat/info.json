@@ -1,0 +1,10 @@
+{
+    "AUTHOR" : "RamseyKeyes",
+    "INSTALL_MSG" : "This is a triumph",
+    "NAME" : "CopyCat",
+    "SHORT" : "Simple test Cog to Copy what the user says",
+    "DESCRIPTION" : "test",
+    "TAGS" : ["1st"],
+    "REQUIREMENTS" : [],
+    "HIDDEN" : false
+}
