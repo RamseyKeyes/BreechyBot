@@ -8,4 +8,4 @@ class TwitchTweeter(commands.Cog):
     async def setupTweet(self, ctx):
         """Used to set up and change the bots setting"""
         # Your code will go here
-        await ctx.send("")
+        await ctx.send("Hello world")

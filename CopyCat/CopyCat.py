@@ -7,6 +7,6 @@ class CopyCat(commands.Cog):
     @commands.command()
     async def mimic(self, ctx, *, words):
         """Monkey Do"""
-        await ctx.send(words)
+        await ctx.send(words+" Helo world" )
 
 
