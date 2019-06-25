@@ -14,4 +14,4 @@ class TwitchTweeter(commands.Cog):
     async def addStream(self, ctx, nickName, twitchID):
         """ Add a new streamer to the list"""
 
-        await ctx.sent("The TwitchID "+ twitchID+ "has been added. The Nickname is: "+nickName)
+        await ctx.sent("The TwitchID "+twitchID+"has been added. The Nickname is: "+nickName)
