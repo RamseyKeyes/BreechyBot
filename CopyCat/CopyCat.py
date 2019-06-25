@@ -5,9 +5,9 @@ class CopyCat(commands.Cog):
     """" Copys what the user inputs"""
 
     @commands.command()
-    async def mimic(self, ctx, *, words):
+    async def mimic(self, ctx):
         """Monkey Do"""
-        await ctx.send(words+"Sam is the Worst" )
+        await ctx.send("It's a Girl")
 
       #  await ctx.send("I can do stuff!")
 
